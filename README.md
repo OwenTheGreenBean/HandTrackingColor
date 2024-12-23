@@ -35,6 +35,4 @@ On windows you can navigate to the device manager and then port and hidden ports
 
 ## How it works
 
-![](https://github.com/HandTrackingColor/howitworks.gif)
-
-
+![ArduinoNano-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a22bb816-b4a0-4b7d-8990-ee8c626c341d)
