@@ -1,4 +1,4 @@
-# How the project works
+# Control Color With Your Hand!
 Youtube video: https://www.youtube.com/watch?v=hPijy3M5150
 I have created a project that takes the position of the finger using Google's media pipe library and an Arduino nano
 ## Setting up librarys
